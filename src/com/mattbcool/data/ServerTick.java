@@ -11,7 +11,7 @@ import org.bukkit.util.BlockIterator;
 public class ServerTick
 {
 	private Main plugin;
-	/*  16 */   private int tick20 = 0;
+	private int tick20 = 0;
 	private float capRate;
 	private boolean up;
 	private double height;
